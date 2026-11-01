@@ -1,0 +1,9 @@
+{
+  "model": "MediaPipe Face Landmarker float16 v1",
+  "source": "https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task",
+  "documentation": "https://ai.google.dev/edge/mediapipe/solutions/vision/face_landmarker/android",
+  "sha256": "64184e229b263107bc2b804c6625db1341ff2bb731874b0bcc2fe6544e0bc9ff",
+  "bytes": 3758596,
+  "downloaded": "2026-10-25",
+  "purpose": "Real per-eye blink blendshapes. On-device only; no identity templates, stored frames or uploads."
+}

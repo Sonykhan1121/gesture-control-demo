@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="136" viewBox="0 0 130 136" fill="none">
+  <!-- Transparent placement guide matching the existing tutorial fist artwork. -->
+  <g stroke="#F9FDE6" stroke-width="2.6" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M17 49V25C17 7 44 7 44 25V20C44 0 71 0 71 20V18C71 0 98 0 98 20V27C98 7 125 8 125 28V82C125 112 107 132 79 132H55C27 132 11 117 7 90L4 78C1 65 7 55 17 49Z"/>
+    <path d="M17 49L57 32C66 28 73 34 70 42C68 49 50 64 41 72C58 83 66 91 65 99"/>
+    <path d="M44 25V37M71 20V46C71 62 98 62 98 46V27M98 46C98 62 125 62 125 46"/>
+  </g>
+</svg>
